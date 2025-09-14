@@ -9,7 +9,7 @@
 # Installation
 - ให้โหลดตัว JavaApplication1
 - Extract ไฟล์ไว้ที่ที่ต้องการ
-- เปิดโปรแกรม Netbean IDE (หากยังไม่ติดตั้งสามารถติดตั้งได้ที่ [NetBeans](https://netbeans.apache.org/front/main/index.html))
+- เปิดโปรแกรม Netbean IDE ([NetBeans](https://netbeans.apache.org/front/main/index.html))
 - ที่ขวาบนจะมี file ให้กดแล้วเลือก export หา path ที่แตกไฟล์ไว้แล้วเลือกเป็นอันเสร็จ
 
 # Description
@@ -23,6 +23,6 @@ An MP3 music player application built with Java, applying Object-Oriented Progra
 # Installation
 -Download JavaApplication1.
 -Extract the files to your preferred directory.
-- Open NetBeans IDE (download from [NetBeans](https://netbeans.apache.org/front/main/index.html) if not installed).
+- Open NetBeans IDE ([NetBeans](https://netbeans.apache.org/front/main/index.html)).
 - In NetBeans, go to File > Open Project, then select the extracted project folder.
 - Install the required fonts and libraries provided with the project.
