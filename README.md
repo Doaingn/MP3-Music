@@ -3,7 +3,7 @@
 และใช้โปรแกรม Netbean ในการเขียนโค้ดและออกแบบ UI
 
 # Installation
--ให้โหลดตัว JavaApplication1
+- ให้โหลดตัว JavaApplication1
 - Extract ไฟล์ไว้ที่ที่ต้องการ
 - เปิดโปรแกรม Netbean (หากยังไม่ติดตั้งสามารถติดตั้งได้ที่ https://netbeans.apache.org/front/main/index.html)
 - ที่ขวาบนจะมี file ให้กดแล้วเลือก export หา path ที่แตกไฟล์ไว้แล้วเลือกเป็นอันเสร็จ
