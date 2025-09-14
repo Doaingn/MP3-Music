@@ -21,8 +21,8 @@ An MP3 music player application built with Java, applying Object-Oriented Progra
 - Developed an MP3 file upload feature. Uploaded files can be edited in the “Edit” screen with options to update song details such as title, artist, album, category, and cover image.
 
 # Installation
--Download JavaApplication1.
--Extract the files to your preferred directory.
+- Download JavaApplication1.
+- Extract the files to your preferred directory.
 - Open NetBeans IDE ([NetBeans](https://netbeans.apache.org/front/main/index.html)).
 - In NetBeans, go to File > Open Project, then select the extracted project folder.
 - Install the required fonts and libraries provided with the project.
